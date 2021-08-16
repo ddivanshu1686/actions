@@ -1,5 +1,7 @@
 # Actions - [GitHub Actions for Azure](https://azure.github.io/actions/)
-
+ 
+ 
+ 
 This repository provides a framework, guidelines and processes to author new and contribute to existing [GitHub Actions deploying to Azure](https://azure.github.io/actions/).
 
 ## Table of contents
