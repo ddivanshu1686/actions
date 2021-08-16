@@ -44,7 +44,7 @@ setup: |
         { q: `${repos} is:${itemType} is:open label:${label}`}
         )
     }
-    console.log(results)
+    console.log(JSON.stringify(results))
     if(results.data.items.length === 0){
       return '0'
     }
